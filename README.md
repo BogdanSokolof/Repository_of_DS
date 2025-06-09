@@ -16,5 +16,9 @@ From  the [Skillfactoru Data Science course](https://skillfactory.ru/data-scient
 
 *[Проект 2. ______](____)
 
+#Ссылка на базу даннных
+
+https://drive.google.com/file/d/1oAhpQe6axOd8ArnuV_Xc0D7Zbjg8YDED/view?usp=sharing
+
 sf homework/sf data_science
 bfa4aa48dbb4d730108d587acc3446beac2489ae
