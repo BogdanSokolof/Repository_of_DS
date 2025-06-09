@@ -1,6 +1,9 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 dst3.0_11_16_hh_database.csv
 =======
+=======
+>>>>>>> bfa4aa48dbb4d730108d587acc3446beac2489ae
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
@@ -175,4 +178,7 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+<<<<<<< HEAD
 >>>>>>> fa9a9da68ee72e3e10072171bb1f7c1af6c6a323
+=======
+>>>>>>> bfa4aa48dbb4d730108d587acc3446beac2489ae
