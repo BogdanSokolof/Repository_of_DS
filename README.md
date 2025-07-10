@@ -14,7 +14,7 @@ From  the [Skillfactoru Data Science course](https://skillfactory.ru/data-scient
 
 *[Проект 1. Анадиз резюме из Headhunterz](https://github.com/BogdanSokolof/Repository_of_DS/blob/main/Project-1._%D0%9D%D0%BE%D1%83%D1%82%D0%B1%D1%83%D0%BA-%D1%88%D0%B0%D1%8C%D0%BB%D0%BE%D0%BD.ipynb)
 
-*[Проект 2. ______](____)
+*[Проект 2. Анализ вакансий из HeadHunter]https://github.com/BogdanSokolof/Repository_of_DS/blob/main/Project_2.ipynb)
 
 #Ссылка на базу даннных
 
