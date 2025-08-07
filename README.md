@@ -16,6 +16,9 @@ From  the [Skillfactoru Data Science course](https://skillfactory.ru/data-scient
 
 *[Проект 2. Анализ вакансий из HeadHunter](https://github.com/BogdanSokolof/Repository_of_DS/blob/main/Project_2.ipynb)
 
+*[Проект 3. Booking.com](____)
+
+
 #Ссылка на базу даннных
 
 https://drive.google.com/file/d/1oAhpQe6axOd8ArnuV_Xc0D7Zbjg8YDED/view?usp=sharing
